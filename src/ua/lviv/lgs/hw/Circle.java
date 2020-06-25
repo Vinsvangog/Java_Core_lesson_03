@@ -10,7 +10,7 @@ public class Circle {
 		this.diameter = radius * 2;
 	}
 
-	public void getCircleDiameter() {
+	public void getCircleSquare() {
 		System.out.println("Площа кола = " + (Math.PI * diameter * diameter) / 4);
 	}
 
